@@ -1,0 +1,23 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 14px;
+  text-align: center;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+.highlight {
+  background-color: #ffeb3b;
+  font-weight: bold;
+}
+.merged {
+  background-color: #ffc107;
+}
+.header {
+  background-color: #ff7043;
+  color: white;
+  font-weight: bold;
+}
